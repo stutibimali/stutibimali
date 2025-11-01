@@ -6,7 +6,7 @@
 <h3 align="left">🔎 About me:</h3>
 -  🌱 I’m currently pursuing Masters in <b>Data Science</b><br>
 -  👩‍🎓 Completed my Bachelor of Engineering in <b>Computer Science and Engineering</b><br>
--  📧 Reach me @ <b>stutibimali@gmail.com</b><br>
+-  📧 Reach me @ <b>bimalistuti@gmail.com</b><br>
 -  🗺️ USA <br>
 
 <h3 align="left"> 👩‍💻 Languages and Tools:</h3>
