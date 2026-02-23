@@ -49,7 +49,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-%F2C811?style=for-the-badge&logo=Selenium&logoColor=white) 
 ![Apache Cassandra](https://img.shields.io/badge/Apache_Cassandra-%234D4D4D.svg?style=for-the-badge&logo=Apache_Cassandra&logoColor=white) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stutibimali" alt="stutibimali" /></a> </p>
+
 
 <h3 align="left">🖇️ Connect with me:</h3>
 <p align="left">
