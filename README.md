@@ -53,10 +53,9 @@
 
 <h3 align="left">🖇️ Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/stuti-bimali-26899117a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stuti-bimali-26899117a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stuti-bimali-26899117a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stuti-bimali" height="30" width="40" /></a>
 <a href="https://kaggle.com/stutibimali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stutibimali" height="30" width="40" /></a>
 <a href="https://instagram.com/stuti_bimali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stuti_bimali" height="30" width="40" /></a>
-<a href="https://medium.com/@stutibimali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stutibimali" height="30" width="40" /></a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
