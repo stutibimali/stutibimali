@@ -162,14 +162,6 @@ I'm especially passionate about **Healthcare AI**, where data-driven intelligenc
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stutibimali&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
