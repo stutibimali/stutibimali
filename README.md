@@ -14,7 +14,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=stutibimali&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
   &nbsp;
-  <a href="https://linkedin.com/in/stuti-bimali-26899117a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/stuti-bimali"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="https://kaggle.com/stutibimali"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
   &nbsp;
