@@ -20,7 +20,7 @@
   &nbsp;
   <a href="mailto:bimalistuti@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://portfolio-mauve-psi-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://stutibimali.com.np/"><img src="https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
 </div>
@@ -31,7 +31,7 @@
  
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
  
-Hi there! I'm **Stuti Bimali** 🇳🇵 - a passionate **Data Scientist**, **AI Engineer**, and **ML Engineer** who turns messy, complex data into decisions that actually matter.
+Hi there! I'm **Stuti Bimali** 🇳🇵 - a passionate **Data Scientist**, **AI Engineer**, **Software Engineer**, and **ML Engineer** who turns messy, complex data into decisions that actually matter.
  
 I work at the intersection of **Machine Learning**, **LLMs**, and **Intelligent Automation** - from building **Voice AI agents** to deploying real-world AI systems at scale.
  
@@ -50,11 +50,11 @@ I'm especially passionate about **Healthcare AI**, where data-driven intelligenc
   </tr>
   <tr>
     <td>📍 <strong>Location</strong></td>
-    <td>West Haven, CT, USA 🇺🇸</td>
+    <td>Baltimore, Maryland, USA 🇺🇸</td>
   </tr>
   <tr>
     <td>🌐 <strong>Portfolio</strong></td>
-    <td><a href="https://portfolio-mauve-psi-14.vercel.app/">portfolio-mauve-psi-14.vercel.app</a></td>
+    <td><a href="https://stutibimali.com.np/">stutibimali.com.np</a></td>
   </tr>
   <tr>
     <td>⚡ <strong>Fun fact</strong></td>
@@ -182,7 +182,7 @@ I'm especially passionate about **Healthcare AI**, where data-driven intelligenc
 |----------|------|
 | 💼 **LinkedIn** | [stuti-bimali](https://linkedin.com/in/stuti-bimali-26899117a) |
 | 📊 **Kaggle** | [stutibimali](https://kaggle.com/stutibimali) |
-| 🌐 **Portfolio** | [portfolio-mauve-psi-14.vercel.app](https://portfolio-mauve-psi-14.vercel.app/) |
+| 🌐 **Portfolio** | [stutibimali.com.np](https://stutibimali.com.np/) |
 | 📸 **Instagram** | [@stuti_bimali](https://instagram.com/stuti_bimali) |
 | 📧 **Email** | [bimalistuti@gmail.com](mailto:bimalistuti@gmail.com) |
 
